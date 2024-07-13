@@ -1,5 +1,4 @@
-# Ruby code for Quicksort Algorithm
-# https://en.wikipedia.org/wiki/Quicksort
+# Ruby code for SelectionSort Algorithm
 def sort(array)
     arr_length = array.length - 1
     i=0

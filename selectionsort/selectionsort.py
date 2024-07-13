@@ -1,5 +1,4 @@
-# Python code for Quicksort Algorithm
-# https://en.wikipedia.org/wiki/Quicksort
+# Python code for SelectionSort Algorithm
 def sort(arr):
     count = len(arr)
     for i in range(count):
